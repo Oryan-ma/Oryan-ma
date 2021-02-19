@@ -24,11 +24,19 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
+## 🌐 **Reach out to me:** ️
+
+[<img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/Oryanmamane/
 [gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
 [github]: https://github.com/Oryan-ma
+
+
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
@@ -53,11 +61,6 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌐 **Reach out to me:** ️
-
-[<img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
-[<img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
 ## <a name="skills">Skills</a>
 
