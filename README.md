@@ -24,6 +24,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/Oryanmamane/
+[gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
+[github]: https://github.com/Oryan-ma
+
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm a computer science student currently in my third year
@@ -76,8 +82,4 @@ Teaching yourself new things is a sign of self-motivation and my life is filled 
 
 
 
-<!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/Oryanmamane/
-[gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
-[github]: https://github.com/Oryan-ma
