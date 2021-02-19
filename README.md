@@ -24,17 +24,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## 🌐 **Reach out to me:** ️
-
-[<img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
-[<img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
-
-<!-- Links of Definitions -->
-
-[linkedin]: https://www.linkedin.com/in/Oryanmamane/
-[gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
-[github]: https://github.com/Oryan-ma
 
 
 
@@ -62,7 +51,7 @@
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## <a name="skills">Skills</a>
+## 🎓️️<a name="skills">Skills</a>
 
 #### Work well with other people
 
@@ -83,6 +72,16 @@ Teaching yourself new things is a sign of self-motivation and my life is filled 
 </a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
 </a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
+## 🌐 **Reach out to me:** ️
 
+[<img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/Oryanmamane/
+[gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
+[github]: https://github.com/Oryan-ma
 
 
