@@ -1,5 +1,5 @@
 <p  align="center"> Hi there  👋</p>
-<p> "If it scares you, it might be a good thing to try." - Seth Godin</p>
+> *"If it scares you, it might be a good thing to try."* - Seth Godin
  <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Oryan Mamane** 🎯️🚀️</p>
 
 ---
