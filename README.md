@@ -61,4 +61,4 @@
 
 [linkedin]: https://www.linkedin.com/in/Oryanmamane/
 [gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
-[github: https://github.com/Oryan-ma
+[github]: https://github.com/Oryan-ma
