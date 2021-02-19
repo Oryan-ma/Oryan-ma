@@ -59,6 +59,6 @@
 
 <!-- Links of Definitions -->
 
-[linkedin align="center"]: https://www.linkedin.com/in/Oryanmamane/
-[gmail align="center"]: mailto:OryanMamane@gmail.com "Lets connect through email"
-[github align="center"]: https://github.com/Oryan-ma
+[linkedin]: https://www.linkedin.com/in/Oryanmamane/
+[gmail]: mailto:OryanMamane@gmail.com "Lets connect through email"
+[github: https://github.com/Oryan-ma
