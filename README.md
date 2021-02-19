@@ -53,6 +53,21 @@
 [<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
+## <a name="skills">Skills</a>
+
+#### Work well with other people
+
+I am comfortable working with other people and on teams.  During my time at Makers Academy I worked on a remote cohort with people from 10 different countries, who had different cultures, backgrounds and native languages.  Every day was a new pair programming experience.  I also worked on 3 different team projects each with new team members. I was successfully able to adapt to the unique dynamics posed by each team or pair partner.  At times I stepped up and filled the mediator role of the team to smooth tensions created by conflicting opinions.
+
+I also have experience working with people in various customer service roles.  I worked with many customers with my quilting business. I helped elderly people with their daily living needs as a Certified Nurse Assistant. As an Administrative Assistant, I helped both the staff and congregation with a variety of needs. Also,  I have had experience with customer service in the retail sector.
+
+#### Self-motivated
+
+Prior to and during Makers I ran my quilting business part-time while homeschooling and taking care of my family. I've taught myself all I've needed to know to run this business successfully for many years. Meeting deadlines, and keeping customers happy has been a big part of that success.
+
+I was able to teach myself enough coding, with no prior knowledge, to allow me to get accepted into Makers Academy. I was able to finish 1 month of pre-course, and 3 months of intensive coursework all while maintaining crazy hours and a busy homelife.
+
+Teaching yourself new things is a sign of self-motivation and my life is filled with self-teaching examples such as photography, Photoshop, drawing, cooking, homeschooling, and various types of crafts.
 
 <!-- ## **Badges:**
 
