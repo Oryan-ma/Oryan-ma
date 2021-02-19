@@ -3,6 +3,13 @@
 # <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Oryan Mamane** 🎯️🚀️</p>
 
 ---
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 
 <p align="center">
 <a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
